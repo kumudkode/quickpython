@@ -1,0 +1,6 @@
+• Easy
+You have to make a simple calculator
+that shows e.g
+First: 20.30
+Second: 20
+Sum: 40.30

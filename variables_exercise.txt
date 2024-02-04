@@ -1,0 +1,30 @@
+                        #Variable Exercise                          
+• Very Easy: put variables and their values
+Write a program in which patient has "first_name", "last_name", "age", and "gender". 
+
+• Easy: Variable Swap
+Write a program that swaps the values of two variables.
+ For example, if a = 5 and b = 10, after swapping, a should be 10 and b should be 5.
+
+• Medium: Fibonacci Sequence
+Write a program that generates the Fibonacci sequence up to a specified number of terms.
+ Use variables to store intermediate values. Allow the user to input the number of terms.
+
+• Hard: Quadratic Equation Solver
+Create a program that solves a quadratic equation ax^2 + bx + c = 0.
+ Prompt the user to enter the values of a, b, and c. 
+ Use variables to store the coefficients and calculate the roots of the equation. 
+ Handle cases where the roots may be complex.
+
+• Very Hard: Polynomial Regression
+Implement a simple polynomial regression algorithm.
+ Take user input for the degree of the polynomial and a set of data points (x, y). 
+ Use variables to store coefficients and create a polynomial equation that fits the data. 
+ Display the regression equation.
+
+##############################################################################################################
+##############################################################################################################
+
+
+
+
